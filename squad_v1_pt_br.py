@@ -30,8 +30,8 @@ This dataset was translated by Deep Learning Brazil
 
 _URL = "https://github.com/arthurcbaia/squad-v1.1-pt-br/raw/main/"
 _URLS = {
-    "train": _URL + "squad-train-v1.1.json",
-    "dev": _URL + "squad-dev-v1.1.json",
+    "train": _URL + "train-v1.1.json",
+    "dev": _URL + "dev-v1.1.json",
 }
 
 
